@@ -8,7 +8,8 @@
    - git add:  `ga .`
    - git commit: `gcmsg "enter message"`
    - git push: `gp`
-
+ - custom git alias: gacp "message"
+ - add Bash aliases: `~/.aliases`
 
 
 
