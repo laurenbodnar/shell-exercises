@@ -11,4 +11,19 @@
    - git push: `gp`
  - custom git alias: gacp "message"
  - add Bash aliases: `~/.aliases`
- - 
+ - Variables:
+   - set variable: `x=[variable]`
+   - use variable: `$x`
+   - clear variable: `unset x`
+
+
+
+
+
+
+
+
+
+
+
+ 
