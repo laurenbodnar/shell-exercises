@@ -12,7 +12,9 @@ else
   echo "NO"
 fi
 
-# double sq brackets used because single = a command of it's own. [] rather than () because it's a string not integers.
+# double sq brackets used because single = a command of it's own. [] rather than () because it's a string not integers.  @ 
+https://serverfault.com/a/705144
+
 
 # || = or
 # && = and
